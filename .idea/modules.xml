@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/services/authenticationservice/authenticationservice.iml" filepath="$PROJECT_DIR$/services/authenticationservice/authenticationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/stockservice/stockservice.iml" filepath="$PROJECT_DIR$/services/stockservice/stockservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trading-platform-demo.iml" filepath="$PROJECT_DIR$/.idea/trading-platform-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trading-ui/trading-ui.iml" filepath="$PROJECT_DIR$/trading-ui/trading-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/userservice/userservice.iml" filepath="$PROJECT_DIR$/services/userservice/userservice.iml" />
+    </modules>
+  </component>
+</project>
